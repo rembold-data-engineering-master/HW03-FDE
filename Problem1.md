@@ -2,11 +2,11 @@
 - Who did you work with?:
 - Estimated time spent on problem?:
 
-Entries surrounded in angle brackets are placeholders that I'm asking you to replace with your information
+I am providing you space below to describe how you came up with your solution, as well as what the final combined BASH sequence of commands was.
 
-## <City 1>
-<Your description>
+- **Description:**
 
 
-## <City 2>
-<Your description>
+```bash
+
+```

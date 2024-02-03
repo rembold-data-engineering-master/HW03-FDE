@@ -34,21 +34,3 @@ As usual, you have space to fill in both your answer and the accompanying SQL st
 
 ```
 
-## Part F
-- **Answer:**
-```sql
-
-```
-
-## Part G
-- **Answers:**
-```sql
-
-```
-
-## Part H
-- **Answers:**
-```sql
-
-```
-
