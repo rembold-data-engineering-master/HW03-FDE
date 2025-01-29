@@ -1,6 +1,7 @@
 # Problem 2
-- Who did you work with?:
+- Who did you work with (in anyone)?:
 - Estimated time spent on problem?:
+- Generative AI transcript URL (if any):
 
 As usual, you have space to fill in both your answer and the accompanying SQL statement (between the triple backtick regions). If an answer necessitated more that just reading a number off your table, please provide a short description of how you found your answer.
 
